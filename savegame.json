@@ -1,0 +1,155 @@
+{
+"states": [
+	{
+		"type": "bird",
+		"position": {
+			"x": 0.6666667,
+			"y": 5
+		},
+		"velocity": {},
+		"health": 100,
+		"isActive": true,
+		"texturePath": "red.png",
+		"damage": 20
+	},
+	{
+		"type": "pig",
+		"position": {
+			"x": 17.111515,
+			"y": 10.30337
+		},
+		"velocity": {},
+		"health": 32.5,
+		"isActive": true,
+		"texturePath": "mediumpig.png"
+	},
+	{
+		"type": "pig",
+		"position": {
+			"x": 19.008629,
+			"y": 8.620133
+		},
+		"velocity": {},
+		"health": 25,
+		"isActive": true,
+		"texturePath": "mediumpig.png"
+	},
+	{
+		"type": "pig",
+		"position": {
+			"x": 25.489853,
+			"y": 5.254999
+		},
+		"velocity": {
+			"x": 0.021991322
+		},
+		"health": 26,
+		"isActive": true,
+		"texturePath": "mediumpig.png"
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 16.986946,
+			"y": 5.3486366
+		},
+		"velocity": {},
+		"health": 30,
+		"isActive": true,
+		"texturePath": "woodenblock.png"
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 16.993479,
+			"y": 7.032507
+		},
+		"velocity": {},
+		"health": 50,
+		"isActive": true,
+		"texturePath": "glassblock.png",
+		"damage": 1
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 17.067757,
+			"y": 8.714821
+		},
+		"velocity": {},
+		"health": 10,
+		"isActive": true,
+		"texturePath": "woodenblock.png"
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 18.697124,
+			"y": 5.3483315
+		},
+		"velocity": {},
+		"health": 30,
+		"isActive": true,
+		"texturePath": "woodenblock.png"
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 18.81145,
+			"y": 7.0311756
+		},
+		"velocity": {},
+		"health": 50,
+		"isActive": true,
+		"texturePath": "glassblock.png",
+		"damage": 1
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 20.410044,
+			"y": 5.349498
+		},
+		"velocity": {},
+		"health": 30,
+		"isActive": true,
+		"texturePath": "woodenblock.png"
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 20.567947,
+			"y": 7.034483
+		},
+		"velocity": {},
+		"health": 50,
+		"isActive": true,
+		"texturePath": "glassblock.png",
+		"damage": 1
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 20.599115,
+			"y": 8.717264
+		},
+		"velocity": {},
+		"health": 50,
+		"isActive": true,
+		"texturePath": "glassblock.png",
+		"damage": 1
+	},
+	{
+		"type": "block",
+		"position": {
+			"x": 18.721817,
+			"y": 10.279344
+		},
+		"velocity": {},
+		"health": 50,
+		"isActive": true,
+		"texturePath": "glassblock.png",
+		"damage": 1
+	}
+]
+}
